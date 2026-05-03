@@ -8,7 +8,7 @@ and you have 7 lives to guess it correctly!
 
 ## 🕹️ Features
 - Random number generation using Python's random module
-- Hot / Cold hints to guide your guess
+- Low/High hints to guide your guess
 - Lives system — lose a life on every wrong guess
 - Play again option after each round
 
